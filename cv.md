@@ -24,11 +24,12 @@ I am an aspiring front-end developer. My goal in this course is to study the mai
 * Studying: https://ru.hexlet.io/u/user-2b826c1fb49fb922
 
 **Developed several design projects on [fl.ru](https://www.fl.ru/users/ip_train/)**  
-**Working on [elnet.by](http://elnet.by/) as a Junior system administrator** *nowdays*
+**Working on [elnet.by](http://elnet.by/) as a Junior system administrator**  
+*nowdays*
 ## Education
 
 * Gymnasium-College of Arts named after I.O. Akhremchik  
-*2008-2011, Minsk, вepartment of easel graphics*
+*2008-2011, Minsk, department of easel graphics*
 * Belarusian State Academy of Arts  
 *2011-2014, Minsk, department of graphic design*
 * Belarusian State university of culture and arts  
