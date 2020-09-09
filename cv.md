@@ -8,10 +8,10 @@ dzmitry.aksiantsiuk@gmail.com**
 I am an aspiring front-end developer. My goal in this course is to study the main aspects of this field of activity and learn how to use all the necessary tools. I have been working as a system administrator in computer networks for 5 years and decided to expand my horizons and develop the necessary skills in the most interesting area of the IT-industry in my opinion as a frontend development. I hope to get a job in this field in the future and join a close-knit, purposeful team.
 ## Skills
 
-◾◾◾◽◽ HTML/CSS
-◾◾◽◽◽ GIT
-◾◾◽◽◽ JS (ES5, ES6)
-◾◾◽◽◽ Vusial Studio Code
+◾◾◾◽◽ HTML/CSS  
+◾◾◽◽◽ GIT  
+◾◾◽◽◽ JS (ES5, ES6)  
+◾◾◽◽◽ Vusial Studio Code  
 ◾◾◾◾◽ Photoshop, Illustrator
 ## Code examples
 
@@ -27,9 +27,12 @@ I am an aspiring front-end developer. My goal in this course is to study the mai
 **Working on [elnet.by](http://elnet.by/) as a Junior system administrator** *nowdays*
 ## Education
 
-* Gymnasium-College of Arts named after I.O. Akhremchik (*2008-2011, Minsk, вepartment of easel graphics*)
-* Belarusian State Academy of Arts (*2011-2014, Minsk, department of graphic design*)
-* Belarusian State university of culture and arts (*2016-2020 Minsk, department folk craft*)
+* Gymnasium-College of Arts named after I.O. Akhremchik  
+*2008-2011, Minsk, вepartment of easel graphics*
+* Belarusian State Academy of Arts  
+*2011-2014, Minsk, department of graphic design*
+* Belarusian State university of culture and arts  
+*2016-2020 Minsk, department folk craft*
 ## English level
 
 Beginer (A1), but I keep learn English to this day.
