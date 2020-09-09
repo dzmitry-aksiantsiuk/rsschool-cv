@@ -13,3 +13,15 @@ I am an aspiring front-end developer. My goal in this course is to study the mai
 ◾◾◽◽◽ JS (ES5, ES6)
 ◾◾◽◽◽ Vusial Studio Code
 ◾◾◾◾◽ Photoshop, Illustrator
+## Code examples
+
+[Github @dzmitry-aksiantsiuk](https://github.com/dzmitry-aksiantsiuk)
+## Experience
+
+**Self-education:**
+* Completed: https://htmlacademy.ru/profile/id1562717/achievements
+* Completed: https://www.codecademy.com/profiles/cloud9404846260
+* Studying: https://ru.hexlet.io/u/user-2b826c1fb49fb922
+
+**Developed several design projects on [fl.ru](https://www.fl.ru/users/ip_train/)**  
+**Working on [elnet.by](http://elnet.by/) as a Junior system administrator** *nowdays*
