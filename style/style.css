@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    width: 1024px;
+    margin: 0 auto;
+    padding: 20px 0 20px;
+}
+
+/* Header */
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-right: 25px;
+}
+
+h1 {
+    font-size: 61px;
+}
+
+.personal-info__list {
+    display: flex;
+    list-style: none;
+}
+
+.personal-info__item {
+    margin-right: 20px;
+}
+
+.fa {
+    margin-right: 5px;
+    color: #4e5684;
+}
+
+a {
+    text-decoration: none; 
+}
+
+/* Summary */
+
+section {
+    margin-top: 50px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: justify;
+}
+
+/* Skills */
+
+.skills__list {
+    list-style: none;
+}
+
+.skills__item {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.skills-progress {
+    font-size: 40px;
+    line-height: 15px;
+    margin-right: 10px;
+    color: #4e5684;
+}
+
+/* Experince & Education */
+
+h4 {
+    margin-bottom: 5px;
+}
+
+.experience__list, .education__list{
+    list-style: square;
+    padding-inline-start: 40px;
+}
+
+.first {
+    margin-bottom: 10px;
+}
+
+.education__list :nth-child(n+2) {
+    margin-top: 5px;
+}
+
+.experience__list :nth-child(n+2) {
+    margin-top: 5px;
+}
